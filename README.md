@@ -1,4 +1,4 @@
-# A-simple-Website-Design
+# A-Website-Design
 Lead Planner - Business Coach Landing Page (Frontend Study)
 Bu proje, profesyonel bir web sitesi tasarımının (Business Coach teması) Bootstrap 5 framework'ü kullanılarak sıfırdan kodlanmış bir çalışmasıdır. Projenin amacı, mevcut bir premium tasarımı referans alarak temiz ve sürdürülebilir bir HTML/CSS yapısı oluşturmaktır.
 
